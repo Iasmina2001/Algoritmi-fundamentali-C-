@@ -1,4 +1,4 @@
-# Algoritmi-fundamentali-C-
+# Algoritmi-fundamentali-C#
 The application I designed in C# is a menu, which has the most popular algorithms implemented.
 The interface has 4 columns, which contain buttons for fundamental algorithms, vector algorithms, programming techniques and the exit button.
  
