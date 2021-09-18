@@ -1,0 +1,87 @@
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\bin\Debug\Meniu.exe.config
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\bin\Debug\Meniu.exe
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\bin\Debug\Meniu.pdb
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\obj\Debug\Meniu.Form1.resources
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\obj\Debug\Meniu.Properties.Resources.resources
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\obj\Debug\Meniu.csproj.GenerateResource.Cache
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\obj\Debug\Meniu.exe
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\obj\Debug\Meniu.pdb
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\obj\Debug\Meniu.Form2.resources
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\obj\Debug\Meniu.Form3.resources
+E:\Clase\12B 2018-2019\Iasmina\Meniu\Meniu\obj\Debug\Meniu.Form4.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\bin\Debug\Meniu.exe.config
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.exe
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.pdb
+C:\Users\Iasmina\Desktop\Meniu\Meniu\bin\Debug\Meniu.exe
+C:\Users\Iasmina\Desktop\Meniu\Meniu\bin\Debug\Meniu.pdb
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.csprojResolveAssemblyReference.cache
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form1.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form2.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form3.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form4.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Properties.Resources.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.csproj.GenerateResource.Cache
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form5.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form6.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form7.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form8.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form9.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form10.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form11.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form12.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form13.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form14.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form15.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form16.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form17.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form18.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form19.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form20.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form21.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form22.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form23.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form24.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form25.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form26.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form27.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form28.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form29.resources
+C:\Users\Iasmina\Desktop\Meniu\Meniu\obj\Debug\Meniu.Form30.resources
+D:\Facultate\C#\Meniu\Meniu\bin\Debug\Meniu.exe.config
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.exe
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.pdb
+D:\Facultate\C#\Meniu\Meniu\bin\Debug\Meniu.exe
+D:\Facultate\C#\Meniu\Meniu\bin\Debug\Meniu.pdb
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.csprojResolveAssemblyReference.cache
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form1.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form10.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form11.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form12.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form13.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form14.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form15.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form16.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form17.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form18.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form19.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form2.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form20.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form21.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form22.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form23.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form24.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form25.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form26.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form27.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form28.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form29.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form3.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form30.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form4.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form5.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form6.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form7.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form8.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Form9.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.Properties.Resources.resources
+D:\Facultate\C#\Meniu\Meniu\obj\Debug\Meniu.csproj.GenerateResource.Cache
